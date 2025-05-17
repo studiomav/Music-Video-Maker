@@ -14,7 +14,11 @@ Created by @studiomav with the help of Cursor AI
 1. Install FFmpeg:
    - Download FFmpeg from https://ffmpeg.org/download.html
    - Add FFmpeg to your system PATH
-
+     
+2. Install Python dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 ## Usage
 
 1. Run the program:
